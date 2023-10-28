@@ -2,7 +2,7 @@
 //  BucketListApp.swift
 //  BucketList
 //
-//  Created by Héctor Manuel Sandoval Landázuri on 28/10/23.
+//  Created by Héctor Manuel Sandoval Landázuri on 25/10/23.
 //
 
 import SwiftUI
